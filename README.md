@@ -1,2 +1,2 @@
 # Programaci-n-II
-Repositorio para la clase de programación II
+Juan David Segovia Juarez - 12601
